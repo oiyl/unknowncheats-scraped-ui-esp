@@ -1,7 +1,7 @@
 
 # unknowncheats-scraped-ui-esp
 
-(Mostly all) scraped images / gifs from unknowncheats.me's largest 3 UI/ESP showcase threadsa as of 24/02/2024.
+(Mostly all) scraped images / gifs from unknowncheats.me's largest 3 UI/ESP showcase threads (3114 files, 1.4 GB ) as of 24/02/2024.
 
 * Extremely low quality effort, or non-full images (for example someone screenshotting and drawing on someone else's menu, measuring pixels, etc) were removed, along with some others.
 * Memes were mostly kept, duplicates should've all been removed. 
@@ -9,11 +9,11 @@
 
 ## Thread links
 
-- CS:GO's Menu Showcase Thread ("csgo_ui_pics")
+- CS:GO's Menu Showcase Thread ("csgo_ui_pics") (1713 files, 433 MB)
     - https://www.unknowncheats.me/forum/counterstrike-global-offensive/183111-menu-showcase-thread.html
-- CS:GO's ESP Showcase Thread ("csgo_esp_pics")
+- CS:GO's ESP Showcase Thread ("csgo_esp_pics") (770 files, 628 MB)
     - https://www.unknowncheats.me/forum/counterstrike-global-offensive/218054-showcase-esp.html
-- C/C++'s GUI Showcase Thread ("c_cpp_ui_pics")
+- C/C++'s GUI Showcase Thread ("c_cpp_ui_pics") (631 files, 400 MB)
     - https://www.unknowncheats.me/forum/c-and-c-/68024-post-menu-gui-framework.html
 
 
