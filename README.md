@@ -18,14 +18,9 @@
 - C/C++'s GUI Showcase Thread ("c_cpp_ui_pics") (631 files, 400 MB)
     - https://www.unknowncheats.me/forum/c-and-c-/68024-post-menu-gui-framework.html
 
+- Done using Python 3, BeautifulSup lib, and urllib
+- Some files are named incorrectly, for example "<filename>.jpg.png 
 
-## How it was done
-Using Python3 and the BeautifulSoup library, along with the urllib module, I scraped all of the content from each page from the given.
-
-I will probably release my script at some point, I just wanted to host the images somewhere in the meantime.
-
-## Caveats
-Some files are named incorrectly, for example "<filename>.jpg.png" due to the way I made the script and I'm too lazy to change that now.
 ## Disclaimer
 
 The content hosted in this repository is sourced from publicly available sources, particularly the UnknownCheats platform. We do not claim ownership of any of the images or other materials included herein. All content belongs to their respective creators and is used here solely for research and educational purposes. If you are the owner of any content included in this repository and wish for it to be removed, please contact us, and we will promptly address your concerns.
