@@ -7,7 +7,8 @@
 
 * Extremely low quality effort, or non-full images (for example someone screenshotting and drawing on someone else's menu, measuring pixels, etc) were removed, along with some others.
 * Memes were mostly kept, duplicates should've all been removed. 
-
+* Done using Python 3, BeautifulSup lib, and urllib
+* Some files are named incorrectly, for example "<filename>.jpg.png 
 
 ## Thread links
 
@@ -17,9 +18,6 @@
     - https://www.unknowncheats.me/forum/counterstrike-global-offensive/218054-showcase-esp.html
 - C/C++'s GUI Showcase Thread ("c_cpp_ui_pics") (631 files, 400 MB)
     - https://www.unknowncheats.me/forum/c-and-c-/68024-post-menu-gui-framework.html
-
-- Done using Python 3, BeautifulSup lib, and urllib
-- Some files are named incorrectly, for example "<filename>.jpg.png 
 
 ## Disclaimer
 
