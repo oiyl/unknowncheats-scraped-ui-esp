@@ -22,6 +22,3 @@
 ## Disclaimer
 
 The content hosted in this repository is sourced from publicly available sources, particularly the UnknownCheats platform. We do not claim ownership of any of the images or other materials included herein. All content belongs to their respective creators and is used here solely for research and educational purposes. If you are the owner of any content included in this repository and wish for it to be removed, please contact us, and we will promptly address your concerns.
-## Contributing
-
-Contributions are welcomed, mainly in regard to archiving videos as well, which I decided not to do (At least for now).
